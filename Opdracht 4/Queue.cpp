@@ -87,7 +87,7 @@ int main() {
 	if (q.isEmpty())
 		cout << "Queue is empty" << endl;
 	else
-		cout << "Queue has room left" << endl;
+		cout << "Queue is not empty" << endl;
 
 	return 0;
 }
